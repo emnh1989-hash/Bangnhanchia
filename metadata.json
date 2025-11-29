@@ -1,0 +1,7 @@
+{
+  "name": "Bảng nhân chia (Bản 2.1)",
+  "description": "Một ứng dụng web hiển thị bảng nhân từ 2 đến 9 với giao diện trực quan, hiện đại và đẹp mắt được xây dựng bằng React và Tailwind CSS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
